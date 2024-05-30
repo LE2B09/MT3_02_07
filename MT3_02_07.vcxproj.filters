@@ -111,5 +111,8 @@
     <ClInclude Include="C:\KamataEngine\DirectXGame\base\StringUtility.h">
       <Filter>KamataEngine\Include</Filter>
     </ClInclude>
+    <ClInclude Include="AABB.h" />
+    <ClInclude Include="VectorMatrix.h" />
+    <ClInclude Include="Segment.h" />
   </ItemGroup>
 </Project>
